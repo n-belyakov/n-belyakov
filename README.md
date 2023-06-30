@@ -12,10 +12,10 @@
 ![Devtools](https://img.shields.io/badge/-DEVTOOLS-090909?style-for-badge&logo=googlechrome)
 
 ### Testing Documentation
-- [Test-Cases]()
-- [Checklists]()
-- [Bug-Reports]()
-- [Postman Collections]()
+- [Test-Cases](https://github.com/n-belyakov/Test-Cases)
+- [Checklists](https://github.com/n-belyakov/Checklists)
+- [Bug-Reports](https://github.com/n-belyakov/Bug-Reports)
+- [Postman Collections](https://github.com/n-belyakov/Postman-Collections)
 
 ### Contacts 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-badge&logo=telegram)](https://t.me/nbelyakov)
