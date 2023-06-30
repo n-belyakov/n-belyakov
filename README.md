@@ -1,4 +1,4 @@
-![Header](https://github.com/n-belyakov/n-belyakov/blob/main/assets/image_2023-06-30_17-14-26.png)
+![Header](https://github.com/n-belyakov/n-belyakov/blob/main/assets/Header.png)
 
 About me
 
