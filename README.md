@@ -21,3 +21,4 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-badge&logo=telegram)](https://t.me/nbelyakov)
 [![Email](https://img.shields.io/badge/-Email-090909?style-for-badge&logo=gmail)](mailto:my@belyakovn.ru)
 
+[![N-belyakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-belyakov&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
