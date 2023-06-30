@@ -13,6 +13,6 @@ My CV
 Testing Documentation
 
 ### Contacts 
-![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-badge&logo=telegram)
-![Email](https://img.shields.io/badge/-Email-090909?style-for-badge&logo=gmail)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-badge&logo=telegram)](https://t.me/nbelyakov)
+[![Email](https://img.shields.io/badge/-Email-090909?style-for-badge&logo=gmail)](mailto:my@belyakovn.ru)
 
