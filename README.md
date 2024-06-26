@@ -18,7 +18,7 @@
 - [Python Collection](https://github.com/n-belyakov/Python)
 
 ### Сertificates from the courses
-- ![Тестирование ПО с нуля. Теория + Практика](https://github.com/n-belyakov/Certificates/blob/main/Тестирование%20ПО%20с%20нуля_Теория%20и%20практика.pdf)
+- (https://github.com/n-belyakov/n-belyakov/blob/main/assets/icons8-pdf-16.png)![Тестирование ПО с нуля. Теория + Практика](https://github.com/n-belyakov/Certificates/blob/main/Тестирование%20ПО%20с%20нуля_Теория%20и%20практика.pdf)
 - ![Тестирование ПО Postman для тестирования API](https://github.com/n-belyakov/Certificates/blob/main/Тестирование%20ПО_Postman%20для%20тестирования%20API.pdf)
 - ![Поколение Python](https://github.com/n-belyakov/Certificates/blob/main/Python.pdf)
 
