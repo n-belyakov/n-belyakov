@@ -21,7 +21,7 @@
 - ![icon](https://github.com/n-belyakov/n-belyakov/blob/main/assets/icons8-pdf-16.png)![Тестирование ПО с нуля. Теория + Практика](https://github.com/n-belyakov/Certificates/blob/main/Тестирование%20ПО%20с%20нуля_Теория%20и%20практика.pdf)
 - ![icon](https://github.com/n-belyakov/n-belyakov/blob/main/assets/icons8-pdf-16.png)![Тестирование ПО Postman для тестирования API](https://github.com/n-belyakov/Certificates/blob/main/Тестирование%20ПО_Postman%20для%20тестирования%20API.pdf)
 - ![Поколение Python](https://github.com/n-belyakov/n-belyakov/blob/main/assets/icons8-pdf-16.png)https://github.com/n-belyakov/Certificates/blob/main/Python.pdf
-- [<a href="[url](https://github.com/n-belyakov/Certificates/blob/main/Python.pdf)">Поколение Python</a>](https://github.com/n-belyakov/n-belyakov/blob/main/assets/icons8-pdf-16.png)
+- ![<a href="[url](https://github.com/n-belyakov/Certificates/blob/main/Python.pdf)">Поколение Python</a>](https://github.com/n-belyakov/n-belyakov/blob/main/assets/icons8-pdf-16.png)
 ### Contacts 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-badge&logo=telegram)](https://t.me/nbelyakov)
 [![Email](https://img.shields.io/badge/-Email-090909?style-for-badge&logo=gmail)](mailto:my@belyakovn.ru)
