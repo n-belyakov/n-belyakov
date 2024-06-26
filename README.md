@@ -13,10 +13,14 @@
 
 ### Testing Documentation
 - [Test-Cases](https://github.com/n-belyakov/Test-Cases)
-- [Checklists](https://github.com/n-belyakov/Checklists)
 - [Bug-Reports](https://github.com/n-belyakov/Bug-Reports)
 - [Postman Collections](https://github.com/n-belyakov/Postman-Collections)
 - [Python Collection](https://github.com/n-belyakov/Python)
+
+### Сertificates from the courses
+![Тестирование ПО с нуля. Теория + Практика](https://github.com/n-belyakov/Certificates/blob/main/Тестирование%20ПО%20с%20нуля_Теория%20и%20практика.pdf)
+![Тестирование ПО Postman для тестирования API](https://github.com/n-belyakov/Certificates/blob/main/Тестирование%20ПО_Postman%20для%20тестирования%20API.pdf)
+![Поколение Python](https://github.com/n-belyakov/Certificates/blob/main/Python.pdf)
 
 ### Contacts 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-badge&logo=telegram)](https://t.me/nbelyakov)
