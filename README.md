@@ -3,7 +3,7 @@
 ## I'm a beginner QA Engineer
 
 ### My CV
-[Link to my CV](https://drive.google.com/file/d/1Wrv4yeV9vpmCe0SPPKJS6-dC92sMiJ2u/view?usp=sharing)
+[Link to my CV]([https://drive.google.com/file/d/1Wrv4yeV9vpmCe0SPPKJS6-dC92sMiJ2u/view?usp=sharing](https://drive.google.com/file/d/1iNCP2xjfJd9_ED2yY4GNiyTopiElKD9S/view?usp=sharing))
 
 ### Language and Tools
 ![Postman](https://img.shields.io/badge/-POSTMAN-090909?style-for-badge&logo=postman)
